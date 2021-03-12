@@ -3,8 +3,7 @@ module.exports = function toReadable (number) {
     const numbers = ["zero", "one", "two", "three", "four", "five", "six", "seven", 
     "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", 
     "sixteen", "seventeen", "eighteen", "nineteen"];
-   // const firstDec = ["ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"];
-    const dec = ["twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"];
+     const dec = ["twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"];
 
     let result = "";
 
